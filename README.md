@@ -4,7 +4,7 @@ We are a group of Spatial Engineers working on our case study project that deals
 
 ## Navigate around the repository
 Datasets </br>
-Interactive maps [here](https://github.com/medh642/P2P-Trading/blob/main/P2PSim/SeasonalClassification.html)*download to view*</br>
+Interactive maps [here](https://github.com/medh642/P2P-Trading/blob/main/P2PSim/SeasonalClassification.html) *(download to view)*</br>
 Data pre-processing </br>
 Codes for interactive mapping </br>
 
