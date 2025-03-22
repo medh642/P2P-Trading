@@ -4,7 +4,7 @@ We are a group of Spatial Engineers working on our case study project that deals
 
 ## Navigate around the repository
 Datasets </br>
-Interactive maps </br>
+Interactive maps [here]</br>
 Data pre-processing </br>
 Codes for interactive mapping </br>
 
