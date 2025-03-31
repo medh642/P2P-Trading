@@ -6,7 +6,7 @@ We are a group of Spatial Engineers working on our case study project that deals
 Datasets [here](https://github.com/medh642/P2P-Trading/tree/main/Datasets_Simulation)</br>
 Interactive maps [here](https://github.com/medh642/P2P-Trading/blob/main/P2PSim/SeasonalClassification.html) *(download to view)*</br>
 Data pre-processing </br>
-Codes for interactive mapping </br>
+Codes for temporal modelling [here](https://github.com/medh642/P2P-Trading/tree/main/P2PSim)</br>
 
 ## Objective 
 The original study determine the feasibility of a P2P energy trading system in Stadshagen Zwolle by performing a Spatio-temporal analysis of the consumption and PV generation potential
