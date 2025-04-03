@@ -1,6 +1,8 @@
 ![Python](https://img.shields.io/badge/Python-3.10.16-blue?logo=python) ![repo status](https://www.repostatus.org/badges/latest/active.svg)
 # P2P- Energy Trading
 We are a group of Spatial Engineers working on our case study project that deals with Energy Transition in Zwolle, focusing on developing a peer to peer energy community in a neighbourhood called Stadshagen. To do this we plan to create a temporal model for the current situation in Stadshagen.
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/c9aea375-cc72-428f-b573-e2f39ffacd93" />
+
 
 ## Navigate around the repository
 Datasets [here](https://github.com/medh642/P2P-Trading/tree/main/Datasets_Simulation)</br>
