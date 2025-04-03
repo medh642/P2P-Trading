@@ -4,7 +4,7 @@ We are a group of Spatial Engineers working on our case study project that deals
 
 ## Navigate around the repository
 Datasets [here](https://github.com/medh642/P2P-Trading/tree/main/Datasets_Simulation)</br>
-Interactive maps [here](https://github.com/medh642/P2P-Trading/blob/main/P2PSim/SeasonalClassification.html) *(download to view)*</br>
+Monthly variation interactive map [here](https://github.com/medh642/P2P-Trading/blob/main/P2PSim/SeasonalClassification.html) *(download to view)*</br>
 Data pre-processing </br>
 Codes for temporal modelling [here](https://github.com/medh642/P2P-Trading/tree/main/P2PSim)</br>
 Degree days calculator [here](https://www.degreedays.net/)</br>
