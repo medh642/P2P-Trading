@@ -10,11 +10,9 @@ Codes for temporal modelling [here](https://github.com/medh642/P2P-Trading/tree/
 Degree days calculator [here](https://www.degreedays.net/)</br>
 
 ## Objective 
-The original study determine the feasibility of a P2P energy trading system in Stadshagen Zwolle by performing a Spatio-temporal analysis of the consumption and PV generation potential
+The study aims to determine the feasibility of a P2P energy trading system in Stadshagen Zwolle by performing a Spatio-temporal analysis of the consumption and PV generation potential by first performing a location based classification of consumer and prosumer postcodes, then classifying postcodes as consumers and prosumers by month and finally analysing the consumption and production potential by hour (relevant only for a summer day, as solar energy generation on a winter day is almost 0kWh)
 
-## Analysis 
 
-## Resources
 
 
 
